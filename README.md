@@ -1,8 +1,7 @@
 # UpdateAppUtils1.5.2
-### 一行代码，快速实现app在线下载更新  A simple library for Android update app
-### 适配Android6.0、7.0、8.0
+### 一行代码，快速实现app在线下载更新  A simple library for Android update app适配Android6.0、7.0、8.0
 
-### 近期开启重构，大家有什么建议和需求都可以提到Issues中
+### 近期开启重构，大家有什么建议和需求都可以提到Issues中!!!!
 
 ![](update.gif)
 
